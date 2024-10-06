@@ -1,0 +1,8 @@
+rembg
+pillow
+opencv-python
+numpy
+tensorflow
+matplotlib
+IPython
+tensorflow_hub
